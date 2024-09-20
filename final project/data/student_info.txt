@@ -1,0 +1,9 @@
+studentID,name,gender,ChineseScore,Mathscore,Englishscore
+10001,alice,Å®,90,98,78
+10002,betty,Å®,98,98,87
+10003,chris,ÄÐ,87,87,89
+10004,µ¤Äá,ÄÐ,89,76,80
+10005,°¬µÏ,ÄÐ,80,78,90
+10006,peter,ÄÐ,67,68,69
+10007,merry,Å®,67,68,69
+10008,leo,ÄÐ,90,91,92

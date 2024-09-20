@@ -1,0 +1,14 @@
+{
+    "name": "小明",
+    "age": 18,
+    "scores": {
+        "IS211": 89,
+        "IS200": 90
+    },
+    "city": [
+        "Beijing",
+        "Shanghai"
+    ],
+    "Intl.": false,
+    "notes": null
+}

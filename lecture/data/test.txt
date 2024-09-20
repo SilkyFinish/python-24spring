@@ -1,0 +1,2 @@
+This is the content of test.txt
+Python is the best language
